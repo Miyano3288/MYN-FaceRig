@@ -1,0 +1,22 @@
+schema_version = "1.0.0"
+
+id = "myn_facerig"
+version = "1.2.2"
+name = "MYN-FaceRig"
+tagline = "Generate on-screen slider / 2D pad controls that drive mesh shape keys via drivers"
+maintainer = "Miyanokun"
+type = "add-on"
+
+website = "https://github.com/Miyano3288/MYN-FaceRig"
+
+tags = ["Rigging", "Animation"]
+
+blender_version_min = "4.2.0"
+
+license = [
+  "SPDX:GPL-3.0-or-later",
+]
+
+category = "Rigging"
+
+[permissions]
